@@ -72,6 +72,11 @@ These LLMs are all licensed for commercial use (e.g., Apache 2.0). Contributions
   - Licence: Apache 2.0 for base and storywriter 
 
 
+- Replit Code-v1-3b
+  - Checkpoints: https://huggingface.co/replit/replit-code-v1-3b
+  - Paper/blog: https://www.latent.space/p/reza-shabani#details
+  - Size: 2.7B
+  - License: Creative Commons license (CC BY-SA-4.0)
 ---
 
 ### Want to contribute? Just add to the above with the following
