@@ -87,3 +87,5 @@ These LLMs are all licensed for commercial use (e.g., Apache 2.0). Contributions
 ### Improvements
 
 - Add context size?
+- Add (links to) eval benchmarks? 
+- Update to use table format
