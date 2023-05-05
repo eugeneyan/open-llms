@@ -18,7 +18,7 @@ These LLMs are all licensed for commercial use (e.g., Apache 2.0). Contributions
 | SantaCoder | [santacoder](https://huggingface.co/bigcode/santacoder) |[SantaCoder: don't reach for the stars!](https://arxiv.org/abs/2301.03988) | 1.1B | [BigCode OpenRAIL-M v1](https://huggingface.co/spaces/bigcode/) |
 | MPT-7B | [MPT-7B base, instruct, etc](https://github.com/mosaicml/llm-foundry#mpt) | [Introducing MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs](https://www.mosaicml.com/blog/mpt-7b) | 7B | Apache 2.0 for base and storywriter |
 | h2oGPT | [h2oGPT](https://github.com/h2oai/h2ogpt) | [Building the World’s Best Open-Source Large Language Model: H2O.ai’s Journey](https://h2o.ai/blog/building-the-worlds-best-open-source-large-language-model-h2o-ais-journey/) | 12B - 20B | Apache 2.0 |
-
+| RedPajama-INCITE | [RedPajama-INCITE](https://huggingface.co/togethercomputer) | [Releasing 3B and 7B RedPajama-INCITE family of models including base, instruction-tuned & chat models](https://www.together.xyz/blog/redpajama-models-v1) | 3B - 7B | Apache 2.0 |
 ---
 
 ### Want to contribute? Just add to the above with the following
