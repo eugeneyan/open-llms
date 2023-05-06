@@ -2,6 +2,8 @@
 
 These LLMs are all licensed for commercial use (e.g., Apache 2.0). Contributions and corrections welcome!
 
+---
+
 | Language Model | Checkpoints | Paper/Blog | Size | Licence |
 | --- | --- | --- | --- | --- |
 | T5           | [T5 & Flan-T5](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints), [Flan-T5-xxl (HF)](https://huggingface.co/google/flan-t5-xxl)      | [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://github.com/google-research/text-to-text-transfer-transformer#released-model-checkpoints) | 60M - 11B       | Apache 2.0         |
@@ -23,19 +25,21 @@ These LLMs are all licensed for commercial use (e.g., Apache 2.0). Contributions
 | RedPajama-INCITE | [RedPajama-INCITE](https://huggingface.co/togethercomputer) | [Releasing 3B and 7B RedPajama-INCITE family of models including base, instruction-tuned & chat models](https://www.together.xyz/blog/redpajama-models-v1) | 3B - 7B | Apache 2.0 |
 | OpenLLaMA | [OpenLLaMA-7b-preview-300bt](https://huggingface.co/openlm-research/open_llama_7b_preview_300bt) | [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama) | 7B | Apache 2.0 |
 
-
 _Want to contribute? Just add a row above._
 
 ---
 
 ### What do the licences mean?
+
 - [Apache 2.0](https://en.wikipedia.org/wiki/Apache_License): Allows users to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software under the terms of the license, without concern for royalties.
 - [MIT](https://en.wikipedia.org/wiki/MIT_License): Similar to Apache 2.0 but shorter and simpler. Also, in contrast to Apache 2.0, does not require stating any significant changes to the original code.
 - [CC BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/): Allows (i) copying and redistributing the material and (ii) remixing, transforming, and building upon the material
 for any purpose, even commercially. But if you do the latter, you **must distribute your contributions under the same license as the original.** (Thus, may not be viable for internal teams.)
 - [OpenRAIL-M v1](https://www.bigcode-project.org/docs/pages/model-license/): Allows royalty-free access and flexible downstream use and sharing of the model and modifications of it, and comes with a set of use restrictions (see [Attachment A](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement))
 
-Note: The above is not legal advice.
+### Disclaimer
+
+The licenses of below models does not constitute legal advice. Mainterns of this repo are not responsible for the actions of third parties who use the models. Please cosult an attorney before using models for commercial purposes.
 
 ---
 
