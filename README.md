@@ -41,7 +41,7 @@ Note: The above is not legal advice.
 
 ### Improvements
 
-- Add context size?
-- Add number of tokens trained?
+- Add range of context lengths (see [considerations](https://github.com/eugeneyan/open-llms/issues/7))
+- ~~Add number of tokens trained?~~ (see [considerations](https://github.com/eugeneyan/open-llms/issues/7))
 - Add (links to) training code?
 - Add (links to) eval benchmarks?
