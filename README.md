@@ -1,6 +1,6 @@
 # Open LLMs
 
-These LLMs are all licensed for commercial use (e.g., Apache 2.0). Contributions and corrections welcome!
+These LLMs are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-M). Contributions and corrections welcome!
 
 ---
 
@@ -37,9 +37,7 @@ _Want to contribute? Just add a row above._
 for any purpose, even commercially. But if you do the latter, you **must distribute your contributions under the same license as the original.** (Thus, may not be viable for internal teams.)
 - [OpenRAIL-M v1](https://www.bigcode-project.org/docs/pages/model-license/): Allows royalty-free access and flexible downstream use and sharing of the model and modifications of it, and comes with a set of use restrictions (see [Attachment A](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement))
 
-### Disclaimer
-
-The licenses of below models does not constitute legal advice. Mainterns of this repo are not responsible for the actions of third parties who use the models. Please cosult an attorney before using models for commercial purposes.
+**Disclaimer:** The information provided in this repo does not, and is not intended to, constitute legal advice. Maintainers of this repo are not responsible for the actions of third parties who use the models. Please consult an attorney before using models for commercial purposes.
 
 ---
 
