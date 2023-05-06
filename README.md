@@ -2,6 +2,12 @@
 
 These LLMs are all licensed for commercial use (e.g., Apache 2.0). Contributions and corrections welcome!
 
+### Disclaimer
+
+The licenses of below models does not constitute legal advice. Mainterns of this repo are not responsible for the actions of third parties who use the models. Please cosult an attorney before using models for commercial purposes.
+
+---
+
 | Language Model | Checkpoints | Paper/Blog | Size | Licence |
 | --- | --- | --- | --- | --- |
 | T5           | [T5 & Flan-T5](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints), [Flan-T5-xxl (HF)](https://huggingface.co/google/flan-t5-xxl)      | [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://github.com/google-research/text-to-text-transfer-transformer#released-model-checkpoints) | 60M - 11B       | Apache 2.0         |
