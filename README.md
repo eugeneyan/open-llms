@@ -1,8 +1,6 @@
 # Open LLMs
 
-These LLMs are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-M). Contributions and corrections welcome!
-
----
+These LLMs are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-M). Contributions welcome!
 
 | Language Model | Checkpoints | Paper/Blog | Size | Context Length | Licence |
 | --- | --- | --- | --- | --- | --- |
@@ -16,13 +14,28 @@ These LLMs are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-
 | GPT-NeoX-20B | [GPT-NEOX-20B](https://huggingface.co/EleutherAI/gpt-neox-20b) | [GPT-NeoX-20B: An Open-Source Autoregressive Language Model](https://arxiv.org/abs/2304.04165) | 20B | [2048](https://huggingface.co/EleutherAI/gpt-neox-20b) | Apache 2.0 |
 | Bloom | [Bloom](https://huggingface.co/bigscience/bloom) | [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100) | 176B | [2048](https://huggingface.co/bigscience/bloom) |  [OpenRAIL-M v1](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
 | StableLM-Alpha | [StableLM-Alpha](https://github.com/Stability-AI/StableLM#stablelm-alpha) | [Stability AI Launches the First of its StableLM Suite of Language Models](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models) | 3B - 65B | [4096](https://github.com/Stability-AI/StableLM#stablelm-alpha) | CC BY-SA-4.0 |
-| Replit Code | [replit-code-v1-3b](https://huggingface.co/replit/replit-code-v1-3b) | [Training a SOTA Code LLM in 1 week and Quantifying the Vibes — with Reza Shabani of Replit](https://www.latent.space/p/reza-shabani#details) | 2.7B | [infinity? (ALiBi)](https://huggingface.co/replit/replit-code-v1-3b#model-description) | CC BY-SA-4.0 |
-| StarCoder | [starcoder](https://huggingface.co/bigcode/starcoder) | [StarCoder: A State-of-the-Art LLM for Code](https://huggingface.co/blog/starcoder), [StarCoder: May the source be with you!](https://drive.google.com/file/d/1cN-b9GnWtHzQRoE7M7gAEyivY0kl4BYs/view) | 15B | [8192](https://huggingface.co/bigcode/starcoder#model-summary) | [OpenRAIL-M v1](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
-| SantaCoder | [santacoder](https://huggingface.co/bigcode/santacoder) |[SantaCoder: don't reach for the stars!](https://arxiv.org/abs/2301.03988) | 1.1B | ? | [OpenRAIL-M v1](https://huggingface.co/spaces/bigcode/) |
-| MPT-7B | [MPT-7B](https://huggingface.co/mosaicml/mpt-7b), [MPT-7B-Instruct](https://huggingface.co/mosaicml/mpt-7b-instruct) | [Introducing MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs](https://www.mosaicml.com/blog/mpt-7b) | 7B | [84k (ALiBi)](https://huggingface.co/mosaicml/mpt-7b#how-is-this-model-different) | Apache 2.0 |
+| FastChat-T5 | [fastchat-t5-3b-v1.0](https://huggingface.co/lmsys/fastchat-t5-3b-v1.0) | [We are excited to release FastChat-T5: our compact and commercial-friendly chatbot!](https://twitter.com/lmsysorg/status/1652037026705985537?s=20) | 3B | 512 | Apache 2.0 |
 | h2oGPT | [h2oGPT](https://github.com/h2oai/h2ogpt) | [Building the World’s Best Open-Source Large Language Model: H2O.ai’s Journey](https://h2o.ai/blog/building-the-worlds-best-open-source-large-language-model-h2o-ais-journey/) | 12B - 20B | [256 - 2048](https://huggingface.co/h2oai) | Apache 2.0 |
+| MPT-7B | [MPT-7B](https://huggingface.co/mosaicml/mpt-7b), [MPT-7B-Instruct](https://huggingface.co/mosaicml/mpt-7b-instruct) | [Introducing MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs](https://www.mosaicml.com/blog/mpt-7b) | 7B | [84k (ALiBi)](https://huggingface.co/mosaicml/mpt-7b#how-is-this-model-different) | Apache 2.0 |
 | RedPajama-INCITE | [RedPajama-INCITE](https://huggingface.co/togethercomputer) | [Releasing 3B and 7B RedPajama-INCITE family of models including base, instruction-tuned & chat models](https://www.together.xyz/blog/redpajama-models-v1) | 3B - 7B | ? | Apache 2.0 |
 | OpenLLaMA | [OpenLLaMA-7b-preview-300bt](https://huggingface.co/openlm-research/open_llama_7b_preview_300bt) | [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama) | 7B | [2048](https://huggingface.co/h2oai) | Apache 2.0 |
+
+
+## LLMs for code  
+
+| Language Model | Checkpoints | Paper/Blog | Size | Context Length | Licence |
+| --- | --- | --- | --- | --- | --- |
+| SantaCoder | [santacoder](https://huggingface.co/bigcode/santacoder) |[SantaCoder: don't reach for the stars!](https://arxiv.org/abs/2301.03988) | 1.1B | ? | [OpenRAIL-M v1](https://huggingface.co/spaces/bigcode/) |
+| StarCoder | [starcoder](https://huggingface.co/bigcode/starcoder) | [StarCoder: A State-of-the-Art LLM for Code](https://huggingface.co/blog/starcoder), [StarCoder: May the source be with you!](https://drive.google.com/file/d/1cN-b9GnWtHzQRoE7M7gAEyivY0kl4BYs/view) | 15B | [8192](https://huggingface.co/bigcode/starcoder#model-summary) | [OpenRAIL-M v1](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
+| Replit Code | [replit-code-v1-3b](https://huggingface.co/replit/replit-code-v1-3b) | [Training a SOTA Code LLM in 1 week and Quantifying the Vibes — with Reza Shabani of Replit](https://www.latent.space/p/reza-shabani#details) | 2.7B | [infinity? (ALiBi)](https://huggingface.co/replit/replit-code-v1-3b#model-description) | CC BY-SA-4.0 |
+
+## Evals on open LLMs
+
+PENDING
+
+## LLM datasets for fine-tuning
+
+PENDING
 
 _Want to contribute? Just add a row above._
 
@@ -42,7 +55,7 @@ for any purpose, even commercially. But if you do the latter, you **must distrib
 
 ### Improvements
 
-- Complete entries for context length, and check entries with `?`
-- ~~Add number of tokens trained?~~ (see [considerations](https://github.com/eugeneyan/open-llms/issues/7))
-- Add (links to) training code?
-- Add (links to) eval benchmarks?
+- [x] Complete entries for context length, and check entries with `?`
+- [ ] ~~Add number of tokens trained?~~ (see [considerations](https://github.com/eugeneyan/open-llms/issues/7))
+- [ ] Add (links to) training code?
+- [ ] Add (links to) eval benchmarks?
