@@ -33,6 +33,8 @@ These LLMs are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-
 
 - [Leaderboard by lmsys.org](https://chat.lmsys.org/?leaderboard)
 - [Evals by MosaicML](https://twitter.com/jefrankle/status/1654631746506301441)
+- [Holistic Evaluation of Language Models (HELM)](https://crfm.stanford.edu/helm/latest/?groups=1)
+- [LLM-Leaderboard](https://github.com/LudwigStumpp/llm-leaderboard)
 
 ## LLM datasets for fine-tuning
 
