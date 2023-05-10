@@ -21,8 +21,6 @@ These LLMs are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-
 | RedPajama-INCITE | May 2023 | [RedPajama-INCITE](https://huggingface.co/togethercomputer) | [Releasing 3B and 7B RedPajama-INCITE family of models including base, instruction-tuned & chat models](https://www.together.xyz/blog/redpajama-models-v1) | 3B - 7B | [2048](https://huggingface.co/togethercomputer/RedPajama-INCITE-Instruct-7B-v0.1/blob/157bf3174feebb67f37e131ea68f84dee007c687/config.json#L13) | Apache 2.0 |
 | OpenLLaMA | May 2023 | [OpenLLaMA-7b-preview-300bt](https://huggingface.co/openlm-research/open_llama_7b_preview_300bt) | [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama) | 7B | [2048](https://huggingface.co/h2oai) | Apache 2.0 |
 
-
-
 ## LLMs for code  
 
 | Language Model | Checkpoints | Paper/Blog | Size | Context Length                                                                         | Licence |
@@ -32,13 +30,6 @@ These LLMs are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-
 | StarChat Alpha | [starchat-alpha](https://huggingface.co/HuggingFaceH4/starchat-alpha) | [Creating a Coding Assistant with StarCoder](https://huggingface.co/blog/starchat-alpha) | 16B | [8192](https://huggingface.co/bigcode/starcoder#model-summary)  | [OpenRAIL-M v1](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
 | Replit Code | [replit-code-v1-3b](https://huggingface.co/replit/replit-code-v1-3b) | [Training a SOTA Code LLM in 1 week and Quantifying the Vibes — with Reza Shabani of Replit](https://www.latent.space/p/reza-shabani#details) | 2.7B | [infinity? (ALiBi)](https://huggingface.co/replit/replit-code-v1-3b#model-description) | CC BY-SA-4.0 |
  | CodeGen2 | [codegen2 1B-16B](https://github.com/salesforce/CodeGen2) | [CodeGen2: Lessons for Training LLMs on Programming and Natural Languages](https://arxiv.org/abs/2305.02309) | 1B - 16B | [2048](https://arxiv.org/abs/2305.02309)                                               | Apache 2.0 |
-
-## Evals on open LLMs
-
-- [Leaderboard by lmsys.org](https://chat.lmsys.org/?leaderboard)
-- [Evals by MosaicML](https://twitter.com/jefrankle/status/1654631746506301441)
-- [Holistic Evaluation of Language Models (HELM)](https://crfm.stanford.edu/helm/latest/?groups=1)
-- [LLM-Leaderboard](https://github.com/LudwigStumpp/llm-leaderboard)
 
 ## LLM datasets for fine-tuning
 
@@ -55,6 +46,14 @@ These LLMs are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-
 | --- | --- | --- | --- | --- | ---- | 
 | starcoderdata | May 2023 | [StarCoder: A State-of-the-Art LLM for Code](https://huggingface.co/blog/starcoder) | [starcoderdata](https://huggingface.co/datasets/bigcode/starcoderdata) | 882GB | Apache 2.0 |
 | RedPajama | April 2023| [RedPajama, a project to create leading open-source models, starts by reproducing LLaMA training dataset of over 1.2 trillion tokens](https://www.together.xyz/blog/redpajama) | [RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) | 1.2T | Apache 2.0 |
+
+## Evals on open LLMs
+
+- [Leaderboard by lmsys.org](https://chat.lmsys.org/?leaderboard)
+- [Evals by MosaicML](https://twitter.com/jefrankle/status/1654631746506301441)
+- [Holistic Evaluation of Language Models (HELM)](https://crfm.stanford.edu/helm/latest/?groups=1)
+- [LLM-Leaderboard](https://github.com/LudwigStumpp/llm-leaderboard)
+- [TextSynth Server Benchmarks](https://bellard.org/ts_server/)
 
 ---
 
