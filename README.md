@@ -21,7 +21,7 @@ These LLMs are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-
 | RedPajama-INCITE | 2023/05 | [RedPajama-INCITE](https://huggingface.co/togethercomputer) | [Releasing 3B and 7B RedPajama-INCITE family of models including base, instruction-tuned & chat models](https://www.together.xyz/blog/redpajama-models-v1) | 3 - 7 | [2048](https://huggingface.co/togethercomputer/RedPajama-INCITE-Instruct-7B-v0.1/blob/157bf3174feebb67f37e131ea68f84dee007c687/config.json#L13) | Apache 2.0 |
 | OpenLLaMA | 2023/05 | [OpenLLaMA-7b-preview-300bt](https://huggingface.co/openlm-research/open_llama_7b_preview_300bt) | [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama) | 7 | [2048](https://huggingface.co/h2oai) | Apache 2.0 |
 
-## LLMs for code  
+## Open LLMs for code  
 
 | Language Model | Release Date | Checkpoints | Paper/Blog | Size (B) | Context Length                                                                         | Licence |
 | --- | --- | --- | --- | --- |----------------------------------------------------------------------------------------| --- |
@@ -31,21 +31,26 @@ These LLMs are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-
 | Replit Code | TODO | [replit-code-v1-3b](https://huggingface.co/replit/replit-code-v1-3b) | [Training a SOTA Code LLM in 1 week and Quantifying the Vibes — with Reza Shabani of Replit](https://www.latent.space/p/reza-shabani#details) | 2.7 | [infinity? (ALiBi)](https://huggingface.co/replit/replit-code-v1-3b#model-description) | CC BY-SA-4.0 |
  | CodeGen2 | TODO | [codegen2 1B-16B](https://github.com/salesforce/CodeGen2) | [CodeGen2: Lessons for Training LLMs on Programming and Natural Languages](https://arxiv.org/abs/2305.02309) | 1 - 16 | [2048](https://arxiv.org/abs/2305.02309)                                               | Apache 2.0 |
 
-## LLM datasets for fine-tuning
-
-| Name | Release Date |  Paper/Blog | Dataset | # Samples | License |
-| --- | --- | --- | --- | --- | ---- | 
-| MPT-7B-Instruct | 2023/05 | [Introducing MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs](https://www.mosaicml.com/blog/mpt-7b) | [dolly_hhrlhf](https://huggingface.co/datasets/mosaicml/dolly_hhrlhf) | 59,310 | CC BY-SA-3.0 |
-| OpenAssistant Conversations Dataset | 2023/04 | [OpenAssistant Conversations - Democratizing Large Language Model Alignment](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view) | [oasst1](https://huggingface.co/datasets/OpenAssistant/oasst1) | 161,443 | Apache 2.0 |
-| databricks-dolly-15k | 2023/04 | [Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm) |  [databricks-dolly-15k](https://huggingface.co/datasets/databricks/databricks-dolly-15k) | 15,000 |  CC BY-SA-3.0 |
-| OIG (Open Instruction Generalist)   | 2023/03 | [THE OIG DATASET](https://laion.ai/blog/oig-dataset/) | [OIG](https://huggingface.co/datasets/laion/OIG) | 43M | Apache 2.0 |
-
-## LLM datasets for pre-training
+ ## Open LLM datasets for pre-training
 
 | Name | Release Date | Paper/Blog | Dataset | Size (TB) | License |
 | --- | --- | --- | --- | --- | ---- | 
 | starcoderdata | 2023/05 | [StarCoder: A State-of-the-Art LLM for Code](https://huggingface.co/blog/starcoder) | [starcoderdata](https://huggingface.co/datasets/bigcode/starcoderdata) | 0.882 | Apache 2.0 |
-| RedPajama | 2023/04 | [RedPajama, a project to create leading open-source models, starts by reproducing LLaMA training dataset of over 1.2 trillion tokens](https://www.together.xyz/blog/redpajama) | [RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) | 1.2 | Apache 2.0 |
+| RedPajama | 2023/04 | [RedPajama, a project to create leading open-source models, starts by reproducing LLaMA training dataset of over 1.2 trillion tokens](https://www.together.xyz/blog/redpajama) | [RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) | 5 | Apache 2.0 |
+
+## Open LLM datasets for instruction-tuning
+
+| Name | Release Date |  Paper/Blog | Dataset | # Samples | License |
+| --- | --- | --- | --- | --- | ---- | 
+| MPT-7B-Instruct | 2023/05 | [Introducing MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs](https://www.mosaicml.com/blog/mpt-7b) | [dolly_hhrlhf](https://huggingface.co/datasets/mosaicml/dolly_hhrlhf) | 59,310 | CC BY-SA-3.0 |
+| databricks-dolly-15k | 2023/04 | [Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm) |  [databricks-dolly-15k](https://huggingface.co/datasets/databricks/databricks-dolly-15k) | 15,000 |  CC BY-SA-3.0 |
+| OIG (Open Instruction Generalist)   | 2023/03 | [THE OIG DATASET](https://laion.ai/blog/oig-dataset/) | [OIG](https://huggingface.co/datasets/laion/OIG) | 43M | Apache 2.0 |
+
+## Open LLM datasets for alignment-tuning
+
+| Name | Release Date |  Paper/Blog | Dataset | # Samples | License |
+| --- | --- | --- | --- | --- | ---- |
+| OpenAssistant Conversations Dataset | 2023/04 | [OpenAssistant Conversations - Democratizing Large Language Model Alignment](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view) | [oasst1](https://huggingface.co/datasets/OpenAssistant/oasst1) | 161,443 | Apache 2.0 |
 
 ## Evals on open LLMs
 
