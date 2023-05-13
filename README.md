@@ -60,6 +60,7 @@ These LLMs are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-
 - [Holistic Evaluation of Language Models (HELM)](https://crfm.stanford.edu/helm/latest/?groups=1)
 - [LLM-Leaderboard](https://github.com/LudwigStumpp/llm-leaderboard)
 - [TextSynth Server Benchmarks](https://bellard.org/ts_server/)
+- [Open LLM Leaderboard by Hugging Face](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
 ---
 
