@@ -1,6 +1,6 @@
 # Open LLMs
 
-These LLMs are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-M). Contributions welcome!
+These LLMs (Large Language Models) are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-M). Contributions welcome!
 
 | Language Model | Release Date | Checkpoints | Paper/Blog | Params (B) | Context Length | Licence | Try it                                                                                                                |
 | --- | --- | --- | --- | --- | --- | --- |-----------------------------------------------------------------------------------------------------------------------|
