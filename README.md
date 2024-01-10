@@ -28,6 +28,7 @@ These LLMs (Large Language Models) are all licensed for commercial use (e.g., Ap
 | Mistral 7B | 2023/09 | [Mistral-7B-v0.1](https://huggingface.co/mistralai/Mistral-7B-v0.1), [Mistral-7B-Instruct-v0.1](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1) | [Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/) | 7 | [4096-16K with Sliding Windows](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1/blob/main/config.json)| Apache 2.0 | [Mistral Transformer](https://github.com/mistralai/mistral-src)
 | OpenHermes | 2023/09 | [OpenHermes-7B](https://huggingface.co/teknium/OpenHermes-7B), [OpenHermes-13B](https://huggingface.co/teknium/OpenHermes-13B) | [Nous Research](https://nousresearch.com/) | 7, 13 | [4096](https://huggingface.co/teknium/OpenHermes-13B/blob/main/config.json)| MIT | [OpenHermes-V2 Finetuned on Mistral 7B](https://huggingface.co/spaces/artificialguybr/OPENHERMES-2)
 | SOLAR | 2023/12 | [Solar-10.7B](https://huggingface.co/upstage/SOLAR-10.7B-v1.0) | [Upstage](https://arxiv.org/abs/2312.15166) | 10.7 | [4096](https://huggingface.co/upstage/SOLAR-10.7B-v1.0/blob/main/config.json)| apache-2.0 | |
+| phi-2 | 2023/12 | [phi-2 2.7B](https://huggingface.co/microsoft/phi-2) | [Microsoft](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/) | 2.7 | [2048](https://huggingface.co/microsoft/phi-2/blob/main/config.json)| MIT | |
 
 ## Open LLMs for code  
 
