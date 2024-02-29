@@ -30,6 +30,7 @@ These LLMs (Large Language Models) are all licensed for commercial use (e.g., Ap
 | SOLAR | 2023/12 | [Solar-10.7B](https://huggingface.co/upstage/SOLAR-10.7B-v1.0) | [Upstage](https://arxiv.org/abs/2312.15166) | 10.7 | [4096](https://huggingface.co/upstage/SOLAR-10.7B-v1.0/blob/main/config.json)| apache-2.0 | |
 | phi-2 | 2023/12 | [phi-2 2.7B](https://huggingface.co/microsoft/phi-2) | [Microsoft](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/) | 2.7 | [2048](https://huggingface.co/microsoft/phi-2/blob/main/config.json)| MIT | |
 | OLMo | 2024/02 | [OLMo 1B](https://huggingface.co/allenai/OLMo-1B), [OLMo 7B](https://huggingface.co/allenai/OLMo-7B), [OLMo 7B Twin 2T](https://huggingface.co/allenai/OLMo-7B-Twin-2T) | [AI2]([https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/](https://blog.allenai.org/hello-olmo-a-truly-open-llm-43f7e7359222)) | 1,7 | [2048](https://huggingface.co/allenai/OLMo-7B-Twin-2T/blob/main/config.json)| Apache 2.0 | |
+| Gemma | 2024/02 | [Gemma 7B](https://huggingface.co/google/gemma-7b), [Gemma 7B it](https://huggingface.co/google/gemma-7b-it), [Gemma 2B](https://huggingface.co/google/gemma-2b), [Gemma 2B it](https://huggingface.co/google/gemma-2b-it) | [Technical report](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf) | 2-7 | [8192](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf) | [Gemma Terms of Use](https://ai.google.dev/gemma/terms) | |
 
 ## Open LLMs for code  
 
