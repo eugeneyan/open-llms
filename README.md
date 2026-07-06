@@ -117,6 +117,10 @@ These LLMs (Large Language Models) are all licensed for commercial use (e.g., Ap
 - [TextSynth Server Benchmarks](https://bellard.org/ts_server/)
 - [Open LLM Leaderboard by Hugging Face](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
+## Related resources
+
+- [ModelPriceWatch](https://modelpricewatch.com/) — live hosted-API pricing for open-weight (and proprietary) LLMs, auto-updated from provider pages; handy for the self-host-vs-rent-a-hosted-endpoint cost trade-off.
+
 ---
 
 ### What do the licences mean?
