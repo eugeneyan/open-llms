@@ -116,6 +116,8 @@ These LLMs (Large Language Models) are all licensed for commercial use (e.g., Ap
 - [LLM-Leaderboard](https://github.com/LudwigStumpp/llm-leaderboard)
 - [TextSynth Server Benchmarks](https://bellard.org/ts_server/)
 - [Open LLM Leaderboard by Hugging Face](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+- [ModelPricing.xyz](https://modelpricing.xyz) - Interactive LLM token cost, KV prompt caching, and benchmark comparison directory ([open dataset](https://github.com/allex122/llm-pricing-dataset)).
+
 
 ---
 
